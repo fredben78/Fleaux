@@ -1,0 +1,121 @@
+/* Custom CSS */
+
+/*Feuille de personnage */
+
+.sheet-tabs {
+    color: Crimson;
+    }
+    
+    .roll-mode {
+        color: Cornsilk;
+    }
+    
+    .selectsheet {
+        color: Cornsilk;
+    }
+    
+    .rightblock-element {
+        color: Cornsilk;
+    }
+    
+    .sheet-header {
+        color: red;
+    }
+    
+    .header-fields {
+        color: Crimson;
+    }
+    
+    .label-free {
+        color: Cornsilk;
+    }
+    
+    
+    .label-med {
+        color: Cornsilk;
+    }
+    
+    
+    .sandbox.sheet input{
+        font-size: 11px;
+        background-color: white;
+    }
+    
+    .sandbox.sheet input.entityname{
+        color: white;
+    }
+    
+    .sandbox.sheet .panelheader {
+        background-color: black;
+        color:white;
+    }
+    
+    .sandbox.sheet .flexblock-center input{
+       background-color: white;
+    }
+    
+    .sandbox.sheet th.nameheader,th.propheader {
+        color: Cornsilk;
+        background-color: black;
+    }
+    
+    .sandbox.sheet td{
+      background-color: white;   
+    }
+    
+    .sandbox.sheet th.cell-empty {
+      color: Cornsilk;
+      background-color: black;
+    }
+    
+    .sandbox.sheet th.input-min {
+      color: Cornsilk;
+      background-color: black;
+    }
+    
+    
+    /*Interface générale */
+    
+    .windows-app .windows-title {
+        color: Crimson;
+    }
+    
+    .window-app .window-content { 
+      background: url("images/marbre-blanc.avif") repeat;
+    }
+    
+    textarea {
+      background: url("images/marbre-blanc.avif") repeat;
+    }
+    
+    
+    /*Sidebar */
+    
+    #sidebar {
+      background: url("images/dark-scroll.jpg") repeat;
+    }
+    
+    
+    /*Chat */
+    .roll-underline {
+        border-bottom: 1px solid Crimson;
+    }
+    .roll-wbutton {
+      color: black;
+      font-size: 10px;
+    }
+    
+    .chat-message {
+      background: url("images/pierre-blanche.jpg") repeat;
+    }
+    
+    #chat-form textarea {
+      background: url("images/pierre-blanche.jpg") repeat;
+    }
+    
+    /*Journal Monk */
+    
+    
+    .monks-enhanced-journal .directory-sidebar {
+        background: url("images/marbre-blanc.avif") repeat;
+    }
