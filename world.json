@@ -2,7 +2,11 @@
   "name": "fleaux",
   "title": "Fléaux",
   "description": "",
-  "authors": [],
+  "authors": [
+    {
+      "name": "Fredben",
+    }
+  ],
   "flags": {},
   "version": "1.0.0",
   "scripts": [],
@@ -18,8 +22,7 @@
       "system": "sandbox",
       "package": "world",
       "entity": "JournalEntry",
-      "private": false,
-      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/combat.db"
+      "private": false
     },
     {
       "label": "Création de PJ",
@@ -29,8 +32,7 @@
       "system": "sandbox",
       "package": "world",
       "entity": "JournalEntry",
-      "private": false,
-      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/creation-de-pj.db"
+      "private": false
     },
     {
       "label": "Général",
@@ -40,8 +42,7 @@
       "system": "sandbox",
       "package": "world",
       "entity": "JournalEntry",
-      "private": false,
-      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/general.db"
+      "private": false
     },
     {
       "label": "Jeu",
@@ -51,8 +52,7 @@
       "system": "sandbox",
       "package": "world",
       "entity": "RollTable",
-      "private": false,
-      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/jeu.db"
+      "private": false
     },
     {
       "label": "Création de personnage",
