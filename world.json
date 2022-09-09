@@ -70,19 +70,11 @@
   "dependencies": [],
   "socket": false,
   "protected": false,
+  "manifest": "https://raw.githubusercontent.com/fredben78/Fleaux/main/world.json",
+  "download": "https://github.com/fredben78/Fleaux/archive/refs/heads/main.zip",
+  "background": "worlds/fleaux/icons/game-banner.png",
   "coreVersion": "9.280",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.13.4"
-},
-"system": "sandbox",
-"dependencies": [],
-"socket": false,
-"protected": false,
-"manifest": "https://raw.githubusercontent.com/fredben78/Fleaux/main/world.json",
-"download": "https://github.com/fredben78/Fleaux/archive/refs/heads/main.zip",
-"background": "worlds/fleaux/icons/game-banner.png",
-"coreVersion": "9.280",
-"resetKeys": false,
-"safeMode": false,
-"systemVersion": "0.13.4"
+}
