@@ -1,0 +1,76 @@
+{
+  "name": "fleaux",
+  "title": "Fléaux",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Combat",
+      "type": "JournalEntry",
+      "name": "combat",
+      "path": "packs/combat.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "JournalEntry",
+      "private": false,
+      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/combat.db"
+    },
+    {
+      "label": "Création de PJ",
+      "type": "JournalEntry",
+      "name": "creation-de-pj",
+      "path": "packs/creation-de-pj.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "JournalEntry",
+      "private": false,
+      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/creation-de-pj.db"
+    },
+    {
+      "label": "Général",
+      "type": "JournalEntry",
+      "name": "general",
+      "path": "packs/general.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "JournalEntry",
+      "private": false,
+      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/general.db"
+    },
+    {
+      "label": "Jeu",
+      "type": "RollTable",
+      "name": "jeu",
+      "path": "packs/jeu.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "RollTable",
+      "private": false,
+      "absPath": "/Users/fredbenazeth/Library/Application Support/FoundryVTT/Data/worlds/fleaux/packs/jeu.db"
+    },
+    {
+      "label": "Création de personnage",
+      "type": "RollTable",
+      "name": "creation-de-personnage",
+      "path": "packs/creation-de-personnage.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "RollTable",
+      "private": false
+    }
+  ],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.280",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.13.4"
+}
