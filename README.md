@@ -1,7 +1,9 @@
 # Fleaux
 Monde pour Foundry VTT
 ## Installation
-Télécharger l'ensemble des dossiers et fichiers et copiez les vers vers votre "Worlds" de Foundry VTT.
+1. Installer le système Sandbox
+2. Installer le monde via l'url https://raw.githubusercontent.com/fredben78/Fleaux/main/world.json
+
 
 ## Présentation
 A venir...
