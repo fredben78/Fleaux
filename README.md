@@ -1,3 +1,12 @@
+# Changelog
+
+## 13/09/22
+Ajout des feuilles de PNJ
+
+## 09/09/22
+Création du monde
+
+
 # Fleaux
 Monde pour Foundry VTT
 ## Installation
