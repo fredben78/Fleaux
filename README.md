@@ -1,7 +1,7 @@
 # Changelog
 
-## 13/09/22
-Ajout des feuilles de PNJ
+## 20/09/22
+Ajout des feuilles de PNJ et changement de la bannière de jeu.
 
 ## 09/09/22
 Création du monde
