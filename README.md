@@ -2,6 +2,10 @@
 
 Monde pour Foundry VTT
 
+## 20/09/22
+
+Ajout des feuilles de PNJ et changement de la bannière de jeu.
+
 ## Changelog
 
 ### 23/09/22
